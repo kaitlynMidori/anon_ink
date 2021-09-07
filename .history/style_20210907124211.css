@@ -106,7 +106,7 @@ body {
     font-size: 12px;
     color: white;
     text-align: center;
-    padding: 5px;
+    padding: 10px;
   }
   
   footer h2 {
@@ -453,6 +453,24 @@ body {
     background-position: top;
   }
   
+  /* ************** Resume *************** */
+  .resume-pdf {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 8px;
+    margin: auto;
+  }
+  
+  .resume-container {
+    max-width: 100%;
+    height: 100%;
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+  
   /* ***************** Contact ****************** */
   .contact-container {
     display: inline-flex;
@@ -469,7 +487,7 @@ body {
   .contact-form {
     display: flex;
     max-width: 50%;
-    height: 80%;
+    height: 100%;
     margin: auto;
     border: solid;
     border-color: transparent;
@@ -501,7 +519,6 @@ body {
   .location {
     width: 100%;
     margin-top: 20px;
-    margin-bottom: 20px;
   }
   /****** Contact Form Design ******/
   form input, form textarea {

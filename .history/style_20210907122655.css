@@ -4,7 +4,7 @@ body {
     border: solid orange;
     height: 100%;
     background-color: black;
-    color: white;
+    color: rgb(17, 17, 17);
     margin: none;
     font-family: 'Montserrat', sans-serif;
     padding-top: 0;
@@ -49,8 +49,6 @@ body {
     justify-items: center;
     text-align: center;
     border: solid yellow;
-    padding-top: 10px;
-    padding-bottom: 10px;
   }
   
   footer {
@@ -106,7 +104,7 @@ body {
     font-size: 12px;
     color: white;
     text-align: center;
-    padding: 5px;
+    padding: 20px;
   }
   
   footer h2 {
@@ -171,7 +169,7 @@ body {
   
   /**************** projects ****************/
   .card-container {
-    max-width: 900px;
+    max-width: 1200px;
     min-width: 370px;
     margin: auto;
     display: flex;
@@ -453,6 +451,24 @@ body {
     background-position: top;
   }
   
+  /* ************** Resume *************** */
+  .resume-pdf {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 8px;
+    margin: auto;
+  }
+  
+  .resume-container {
+    max-width: 100%;
+    height: 100%;
+    align-items: center; 
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+  
   /* ***************** Contact ****************** */
   .contact-container {
     display: inline-flex;
@@ -469,7 +485,7 @@ body {
   .contact-form {
     display: flex;
     max-width: 50%;
-    height: 80%;
+    height: 100%;
     margin: auto;
     border: solid;
     border-color: transparent;
@@ -501,7 +517,6 @@ body {
   .location {
     width: 100%;
     margin-top: 20px;
-    margin-bottom: 20px;
   }
   /****** Contact Form Design ******/
   form input, form textarea {

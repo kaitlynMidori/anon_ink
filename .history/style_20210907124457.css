@@ -469,7 +469,7 @@ body {
   .contact-form {
     display: flex;
     max-width: 50%;
-    height: 80%;
+    height: 90%;
     margin: auto;
     border: solid;
     border-color: transparent;
@@ -501,7 +501,6 @@ body {
   .location {
     width: 100%;
     margin-top: 20px;
-    margin-bottom: 20px;
   }
   /****** Contact Form Design ******/
   form input, form textarea {
