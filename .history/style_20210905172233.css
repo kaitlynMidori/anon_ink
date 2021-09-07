@@ -110,7 +110,7 @@ body {
   footer h2 {
     color: black;
   }
-/*   
+  
   img.image-enhanced {
     max-width: 350px;
     border-radius: 8px;
@@ -120,7 +120,7 @@ body {
     color: rgb(17, 17, 17);
     flex: 2;
   }
-   */
+  
   /* Desktop groups/items */
   /* @media all and (min-width: 600px){
     section {
