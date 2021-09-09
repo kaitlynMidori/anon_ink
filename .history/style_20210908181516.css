@@ -40,7 +40,7 @@ body {
     font-size: 18px;
     background-color: black;
     margin: 0;
-    /* border: solid green; */
+    border: solid green;
   }
   
   main {
