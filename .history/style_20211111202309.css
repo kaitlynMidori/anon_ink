@@ -604,7 +604,7 @@ section {
   border-radius: 10px;
   margin-bottom: 20px;
   background-color: #bbb;
-  background-image: url(./images/SurfboardCoffetable.png);
+  background-image: url(./images/beer.jpg);
   opacity: .8;
   background-repeat: no-repeat;
   background-size:cover;
@@ -617,7 +617,7 @@ section {
   backface-visibility: hidden;
   border-radius: 10px;
   margin-bottom: 20px;
-  background-image: url(./images/Oakchair_angle.png);
+  background-image: url(./images/books.jpg);
   opacity: .8;
   background-repeat: no-repeat;
   background-size:cover;
@@ -630,7 +630,7 @@ section {
   backface-visibility: hidden;
   border-radius: 10px;
   margin-bottom: 20px;
-  background-image: url(./images/MarilynFramed.png);
+  background-image: url(./images/makeup.jpg);
   opacity: .8;
   background-repeat: no-repeat;
   background-size:cover;
